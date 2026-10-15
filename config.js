@@ -1,5 +1,5 @@
 window.__LAMIAKO_CFG = {
- "stamp": 1792099110282,
+ "stamp": 1792100635465,
  "nodes": [
   {
    "id": "p_zug",
