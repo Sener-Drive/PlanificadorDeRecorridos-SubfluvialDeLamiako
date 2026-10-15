@@ -1,5 +1,5 @@
 window.__LAMIAKO_CFG = {
- "stamp": 1791905717389,
+ "stamp": 1792099110282,
  "nodes": [
   {
    "id": "p_zug",
@@ -414,6 +414,29 @@ window.__LAMIAKO_CFG = {
    "es": "En «{fase}» están cortados: {cortes}. La ruta mostrada ya incluye el desvío señalizado.",
    "eu": "«{fase}» fasean itxita daude: {cortes}. Erakutsitako ibilbideak seinaleztatutako desbideratzea barne hartzen du.",
    "en": "During «{fase}» these are closed: {cortes}. The route shown already includes the signposted detour."
+  }
+ },
+ "texts": {
+  "Qué te preocupa de este recorrido durante la obra...": {
+   "eu": "Zerk kezkatzen zaitu ibilbide honi dagokionez obrek irauten duten bitartean... "
+  },
+  "La obra reordena el corredor de la BI-637 y sus conexiones entre las dos márgenes de la ría. Hay tres momentos que cambian la forma de moverse.": {
+   "eu": "Obrak BI-637 korridorea eta itsasadarraren bi ertzen arteko loturak berrantolatzen ditu. Hiru unetan aldatuko da mugitzeko modua. "
+  },
+  "Estructuras y nuevo enlace. El tráfico circula por carriles provisionales y se corta la ribera de Udondo, así que los trayectos por la margen derecha se alargan.": {
+   "eu": "Egiturak eta lotune berria. Trafikoa behin-behineko erreietan dabil eta Udondoko ibaiertza ixten da, ondorioz, eskuinaldeko ibilbideak luzatu egiten dira."
+  },
+  "Implantación de la obra y trabajos en la rotonda de Artaza. Se cierra el paseo central del parque y los peatones se desvían por el borde norte.": {
+   "eu": "Obra ezartzea eta Artazako biribilgunean lanak egitea. Parkeko pasealeku nagusia ixten da eta oinezkoak iparraldeko ertzetik desbideratzen dira."
+  },
+  "Desde el lunes el giro hacia Leioa se hace por el carril provisional del borde norte. El planificador ya calcula la ruta con este desvío.": {
+   "eu": "Astelehenetik aurrera, Leioa aldera biratzeko iparraldeko ertzeko behin-behineko erreia erabili behar da. Planifikatzaileak dagoeneko desbideratze hori kontuan hartuta kalkulatzen du ibilbidea. "
+  },
+  "Te avisaremos solo de lo que cambie entre ": {
+   "eu": "Hauen artean aldatzen denaz soilik jakinaraziko dizugu."
+  },
+  "Avísame": {
+   "eu": "Abisatu iezadazu"
   }
  },
  "closed": {
